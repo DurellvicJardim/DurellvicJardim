@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DurellvicJardim
-- 🌱 I’m currently learning Software Development
+- 🌱 I completed my software development certification with Codespace and am currently furthering my knowledge in the wonderful world of coding.
 - 📫 How to reach me: durellvicjardim@gmail.com
 
 <!---
