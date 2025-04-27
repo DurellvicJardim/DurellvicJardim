@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DurellvicJardim
-- 🌱 I completed my software development certification with Codespace and am currently furthering my knowledge in the wonderful world of coding.
+- 🌱 I completed my software development certification with Codespace. Currently studying a Bachelor's of Information Technology in Web Design and Development at Stadio.
 - 📫 How to reach me: durellvicjardim@gmail.com
 
 <!---
